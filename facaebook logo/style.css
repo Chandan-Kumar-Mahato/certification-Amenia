@@ -1,0 +1,19 @@
+div.container{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(46, 46, 253);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    position: relative;
+
+}
+h1{
+    font-size: 300px;
+   color: white;
+   font-family: sans-serif;
+   margin-top: 300px;
+
+
+}

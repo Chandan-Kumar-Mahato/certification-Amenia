@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: blue;
+    margin-top: 100px;
+}
+div.container{
+    display: grid;
+    justify-content: center;
+   
+    grid-template-columns:100px 100px;
+    grid-template-rows:100px 100px;
+    grid-gap: 10px;
+
+}
+
+div.fourth{
+    background-color: #ffb703;
+}
+div.third{
+    background-color: #00b4d8;
+}
+div.first{
+    background-color: #eb5e28;
+}
+div.second{
+    background-color: #29bf12;
+}
